@@ -4,6 +4,6 @@ module ArtistsHelper
   end
 
 #helper to display drop-down list of artists IF via /songs/id/edit & ONLY display artist name
-  def artist_select
+  def artist_select()
   end
 end
